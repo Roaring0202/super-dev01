@@ -45,7 +45,7 @@
         <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
       <br>NextJS
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
       <br>Go
     </td>
@@ -93,10 +93,9 @@
     </td>
   </tr>
  <tr>
-
-       <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
+      <br>WebPack
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
